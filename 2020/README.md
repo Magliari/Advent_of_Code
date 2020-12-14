@@ -1,6 +1,6 @@
 # Advent_of_Code
 
-|Day|Puzzle 1|Puzzle 2|
+|Dia|Puzzle 1|Puzzle 2|
 |---|---|---|
 | 1 |  &#10004; |  &#10004; |
 | 2 |  &#10004; | &#10004;  |
